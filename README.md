@@ -39,7 +39,7 @@ Example: (also see example.php)
     try {
 
         /**
-         * there are two endpoints at the the moment
+         * there are two endpoints at the moment
          *
          * playstation: Forge::PLATFORM_PLAYSTATION
          * xbox: Forge::PLATFORM_XBOX
